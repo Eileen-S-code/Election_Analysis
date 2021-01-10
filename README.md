@@ -22,7 +22,7 @@ Diana DeGette was the winner of the election with 272,892 votes for 73.8% of the
 
 A summmary chart can be found here:
 
-![Election_Analysis](Resources.zip)
+![Election_Analysis](Resources)
 
 ## Election-Audit Summary
 This script can be easily modified to be used in any market by uploading a new csv file with results from any election or could the script could be modified to determine the winner in multiple election types giving the results for mayor, senate, house, and president in one analysis.  
